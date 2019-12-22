@@ -1,8 +1,8 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "ReactImpact",
   "palette": "purple",
   "header": {
-    "title": "Azimuth",
+    "title": "",
     "logo_img": "/images/defaultbcg.jpg",
     "has_nav": true,
     "menu": {
