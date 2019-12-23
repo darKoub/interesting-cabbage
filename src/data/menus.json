@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "test main menu",
+      "title": "test main menu",
+      "url": "test main menu"
+    }
+  ]
+}
