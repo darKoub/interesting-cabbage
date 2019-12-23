@@ -1,4 +1,17 @@
 {
+  "secondary": [
+    {
+      "identifier": "test secondary menu",
+      "title": "test secondary menu",
+      "url": "test secondary menu",
+      "weight": 4
+    },
+    {
+      "identifier": "second test secondary menu",
+      "title": "second test secondary menu",
+      "url": "second test secondary menu"
+    }
+  ],
   "main": [
     {
       "identifier": "test main menu",
