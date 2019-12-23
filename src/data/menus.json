@@ -1,7 +1,7 @@
 {
   "secondary": [
     {
-      "identifier": "test main menu",
+      "identifier": "secondary test main menu",
       "title": "test secondary menu",
       "url": "test secondary menu",
       "weight": 4
